@@ -13,7 +13,7 @@ def first_challenge
     }
   }
 
-  puts contacts["Freddy Mercury"][:favorite_icecream_flavors]
+  puts contacts["Freddy Mercury"][:favorite_icecream_flavors].shift
 
   return contacts
 end
