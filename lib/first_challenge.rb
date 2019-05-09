@@ -18,3 +18,5 @@ def first_challenge
   return contacts
 end
 
+first_challenge
+
