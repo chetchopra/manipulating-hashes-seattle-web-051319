@@ -13,7 +13,7 @@ def first_challenge
     }
   }
 
-  puts contacts["Freddy Mercury"][favorite_icecream_flavors][0]
+  puts contacts["Freddy Mercury"][favorite_icecream_flavors]
 
   return contacts
 end
