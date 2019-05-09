@@ -12,8 +12,7 @@ def first_challenge
       favorite_icecream_flavors: ["strawberry", "cookie dough", "mint chip"]
     }
   }
-
-  puts contacts["Freddy Mercury"][favorite_icecream_flavors]
+[favorite_icecream_flavors]
 
   return contacts
 end
